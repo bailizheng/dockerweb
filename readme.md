@@ -44,6 +44,7 @@ db4d03596139   mysql:8.0.28-oracle   "docker-entrypoint.s…"   10 seconds ago  
 
 
 ~$docker exec -it 95f bash #进入myweb-ubuntu内，进行操作，如果有环境变动，记得commit提交至镜像
+~$exit #退出容器
 ```
 
 
